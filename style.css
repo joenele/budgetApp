@@ -286,10 +286,9 @@ h2 {
 
 @media (max-width: 768px) {
     .income, .expenses{
-        width: 50vw;
-    }
-    
-    .income {
+        width: 100vw;
+        float: left;
+        clear: both;
         padding-left: 10px;
     }
 }
