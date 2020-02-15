@@ -285,7 +285,7 @@ h2 {
 .unpaid:hover .item__description { font-weight: 900; }
 
 @media (max-width: 768px) {
-    .income{
+    .income, .expenses{
         width: 50vw;
         padding-left: 15px;
     }
