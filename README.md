@@ -28,4 +28,4 @@ BudgetApp is released under the [MIT License](https://github.com/joenele/budgeta
 
 For any questions or inquiries, feel free to contact the project maintainer:
 
-LinkedIn: [linkedin.com/in/joenele](https://www.linkedin.com/in/joenele/)
+LinkedIn: [linkedin.com/in/joenele-young/](https://www.linkedin.com/in/joenele-young/)
