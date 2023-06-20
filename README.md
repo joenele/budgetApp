@@ -9,6 +9,9 @@ BudgetApp is a simple web application that helps you track your expenses and man
 - **Expense Tracking:** Easily add and manage your expenses with detailed information such as amount, category, and date.
 - **Budget Management:** Set a budget for each category and track your spending against the allocated budget.
 - **Expense Categorization:** Categorize your expenses into different categories for better organization and analysis.
+
+## Future Features
+
 - **Visualization:** Visualize your spending patterns through charts and graphs for easy analysis and understanding.
 - **Monthly Reports:** Generate monthly reports to get a summary of your expenses and track your progress over time.
 - **Responsive Design:** The application is designed to work seamlessly on various devices, including desktops, tablets, and mobile phones.
@@ -45,11 +48,9 @@ To get started with BudgetApp, follow these steps:
 
 ## Technologies Used
 
-- **React:** A JavaScript library for building user interfaces.
-- **React Router:** A routing library for React applications.
-- **Chart.js:** A JavaScript charting library for creating interactive and customizable charts.
-- **Material-UI:** A popular React UI framework for creating beautiful and responsive user interfaces.
-- **Firebase:** A comprehensive platform for building web and mobile applications.
+- **HTML:** 
+- **CSS:** 
+- **JavaScript:** 
 
 ## Contributing
 
@@ -57,7 +58,7 @@ Contributions to BudgetApp are always welcome! If you find a bug or want to sugg
 
 ## License
 
-BudgetApp is released under the [MIT License](https://github.com/joenele/budgetapp/blob/main/LICENSE).
+BudgetApp is released under the [MIT License](https://github.com/joenele/budgetapp/blob/master/LICENSE).
 
 ## Acknowledgements
 
