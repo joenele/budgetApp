@@ -1,6 +1,5 @@
 # BudgetApp
 
-![BudgetApp](https://github.com/joenele/budgetapp/blob/master/images/budgetapp.png)
 
 BudgetApp is a simple web application that helps you track your expenses and manage your budget effectively. It provides an intuitive interface for adding, categorizing, and analyzing your expenses, allowing you to gain insights into your spending habits.
 
